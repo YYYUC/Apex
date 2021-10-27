@@ -1,0 +1,26 @@
+body.index{
+        		color:#ffffff;
+        		background-color:#666666;
+        		margin-left:20%;
+       		margin-right:20%;
+       		border:2px solid white;
+      		padding:20px 20px 20px 20px;
+       		font-family:HTheiti;
+	          }
+body.legends{
+        	       color:#ffffff;
+                       background-color:#666666;
+        	       margin-left:20%;
+      	       margin-right:20%;
+         	       border:2px solid black;
+        	       padding:20px 20px 20px 20px;
+        	       font-family:HTheiti;
+                       }
+body.maps{
+		color:#ffffff;
+		background-color:#666666;
+		margin-left:15%;
+		margin-right:15%;
+		border:2px solid white;
+		padding: 20px 20px 20px 20px;
+	           }
