@@ -1,8 +1,10 @@
 body.index{
         	color:#ffffff;
         	background-color:#666666;
-        	margin-left:20%;
-       		margin-right:20%;
+		background-image:url("p/pf.jpg");
+		background-attachment: fixed;
+        	margin-left:24%;
+       		margin-right:24%;
        		border:2px solid white;
       		padding:20px 20px 20px 20px;
        		font-family:HTheiti;
@@ -10,9 +12,11 @@ body.index{
 body.legends{
         	color:#ffffff;
                 background-color:#666666;
-        	margin-left:20%;
-      	    	margin-right:20%;
-         	border:2px solid black;
+		background-image:url("p/pf.jpg");
+		background-attachment: fixed;
+        	margin-left:23%;
+      	    	margin-right:23%;
+         	border:2px solid white;
         	padding:20px 20px 20px 20px;
         	font-family:HTheiti;
               	}
