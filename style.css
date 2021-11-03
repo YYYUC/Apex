@@ -36,7 +36,7 @@ li.f{
     float: left;
     border:1px solid black;
   }
-li a {
+.f li a {
     display: block;
     color: white;
     text-align: center;
@@ -44,7 +44,7 @@ li a {
     text-decoration:none;
 }
 
-li a:hover {
+.f li a:hover {
     background-color: #111;
 }
 body.legends{
